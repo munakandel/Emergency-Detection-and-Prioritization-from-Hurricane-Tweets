@@ -1,0 +1,2 @@
+Model,Device,N_tweets,Mean_Latency_ms,P50_Latency_ms,P95_Latency_ms,P99_Latency_ms,Throughput_tweets_per_sec
+DistilRoBERTa,cpu,290,8.876,8.731,11.18,12.612,112.7

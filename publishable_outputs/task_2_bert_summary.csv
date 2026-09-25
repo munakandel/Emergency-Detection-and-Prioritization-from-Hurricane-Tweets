@@ -1,0 +1,2 @@
+Task,Model,Val_Accuracy,Val_F1_macro,Test_Accuracy,Test_F1_macro
+Task 2,BERT,0.792,0.779,0.8196,0.8042

@@ -1,0 +1,9 @@
+Task,Model,Accuracy,F1_macro
+Task 1,RoBERTa,0.8462,0.8559
+Task 1,DistilRoBERTa,0.8392,0.8432
+Task 1,BERT,0.8147,0.8183
+Task 1,DistilBERT,0.8007,0.8089
+Task 2,BERT,0.6923,0.676
+Task 2,RoBERTa,0.6748,0.6644
+Task 2,DistilRoBERTa,0.6643,0.6527
+Task 2,DistilBERT,0.6503,0.6374

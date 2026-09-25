@@ -1,0 +1,2 @@
+Task,Model,Val_Accuracy,Val_F1_macro,Test_Accuracy,Test_F1_macro
+Task 1,DistilRoBERTa,0.827,0.825,0.8,0.8036

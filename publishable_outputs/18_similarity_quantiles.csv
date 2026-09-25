@@ -1,0 +1,7 @@
+metric,value
+mean,0.6567
+median,0.6711
+p75,0.7098
+p90,0.7402
+p95,0.7569
+top_decile_mean,0.7737

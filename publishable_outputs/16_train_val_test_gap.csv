@@ -1,0 +1,4 @@
+Split,accuracy,f1_macro,n
+Train,0.9756,0.9742,1351
+Validation,0.827,0.825,289
+Test,0.7966,0.8008,290

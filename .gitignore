@@ -1,0 +1,36 @@
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python virtual environment
+hurricane_env/
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Trained model folders (too large for GitHub; reproducible from the notebook)
+bert_task1/
+bert_task2/
+distilbert_task1/
+distilbert_task2/
+roberta_task1/
+roberta_task2/
+distilroberta_task1/
+distilroberta_task2/
+emergency_model/
+final_message_type_model/
+final_model_task1/
+
+# Model weight files anywhere else
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+checkpoint-*/
+
+# Large data files: add any file over 50 MB here
+data/

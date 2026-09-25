@@ -1,0 +1,2 @@
+Task,Model,Val_Accuracy,Val_F1_macro,Test_Accuracy,Test_F1_macro
+Task 1,RoBERTa,0.8235,0.8236,0.7828,0.7808

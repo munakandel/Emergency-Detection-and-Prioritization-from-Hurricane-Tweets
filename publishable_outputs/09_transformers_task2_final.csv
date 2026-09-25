@@ -1,0 +1,5 @@
+Task,Model,Val_Accuracy,Val_F1_macro,Test_Accuracy,Test_F1_macro
+Task 2,DistilBERT,0.8196,0.8116,0.8226,0.8074
+Task 2,BERT,0.792,0.779,0.8196,0.8042
+Task 2,DistilRoBERTa,0.792,0.774,0.8104,0.7936
+Task 2,RoBERTa,0.8135,0.8002,0.7982,0.78

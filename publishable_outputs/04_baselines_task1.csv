@@ -1,0 +1,4 @@
+Task,Model,Val_Accuracy,Val_F1_macro,Test_Accuracy,Test_F1_macro
+Task 1,LogisticRegression,0.7716,0.7671,0.6966,0.6928
+Task 1,LinearSVM,0.7682,0.7618,0.7,0.6916
+Task 1,NaiveBayes,0.7543,0.7396,0.6897,0.6629

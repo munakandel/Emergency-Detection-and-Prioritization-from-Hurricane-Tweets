@@ -1,0 +1,12 @@
+{
+  "seed_base": 42,
+  "task1_best_model": "DistilRoBERTa",
+  "task2_best_model": "DistilBERT",
+  "task1_best_test_f1_macro": 0.8036,
+  "task2_best_test_f1_macro": 0.8074,
+  "task1_agreement_rate_percent": 74.8,
+  "n_unique_tweets": 2824,
+  "n_ranked_emergency_tweets": 856,
+  "n_semantic_matches": 221,
+  "semantic_match_avg_score": 0.4848
+}
